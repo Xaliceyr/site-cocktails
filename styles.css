@@ -6,6 +6,7 @@
 
 body, html {
     height: 100%;
+    font-family:Arial, sans-serif;
     font-family: Arial, sans-serif;
     
 }
@@ -140,3 +141,140 @@ h1 {
     padding: 0;
     margin: 10px 0;
 }
+
+
+
+.Convert {
+    background-image: url('images/Madeira22.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 3000px;
+    width: 100%;
+  }
+.convert h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+
+.convert  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }  
+  
+.convert label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+.convert input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+.Convert button {
+    background: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+  }
+  
+.convert button:hover {
+    background: #0056b3;
+  }
+  
+.convert p {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+.Tsp {
+    background-color: #e95555;
+    border-left: 6px solid #f44336;
+  } 
+
+.Oz {
+    background-color: #63593f;
+    border-left: 6px solid #f44336;
+  } 
+
+
+.Convert {
+    background-image: url('images/Madeira22.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 3000px;
+    width: 100%;
+  }
+.convert h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+
+.convert  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }  
+  
+.convert label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+.convert input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+.Convert button {
+    background: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+  }
+  
+.convert button:hover {
+    background: #0056b3;
+  }
+  
+.convert p {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+.Tsp {
+    background-color: #e95555;
+    border-left: 6px solid #f44336;
+  } 
+
+.Oz {
+    background-color: #63593f;
+    border-left: 6px solid #f44336;
+  } 
